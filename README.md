@@ -1,6 +1,6 @@
 Proyecto Poke-Card-rand
 
-Proyecto elaborado usando React-hooks y consumiendo la poke api con el fin de mostrar las estadisticas iniciales de un pokemons al azar entre los 900 tipos que hay.
+Proyecto elaborado usando React-hooks y consumiendo la poke api con el fin de mostrar las estadisticas iniciales de un pokemon al azar entre los 900 tipos que hay.
 
 
 ![image](https://user-images.githubusercontent.com/101487602/180579485-3f5fabf5-d980-4046-aced-175848187186.png)
