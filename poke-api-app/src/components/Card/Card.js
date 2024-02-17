@@ -14,7 +14,7 @@ function CardPokemon(props){
 
 return(
     <div class="media">
-        <Card sx={{ maxWidth: 350 }}>
+        <Card sx={{ maxWidth: 400}}>
             <CardHeader
                 avatar={
                 <Avatar background-color="primary">
