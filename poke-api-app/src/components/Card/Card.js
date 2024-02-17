@@ -32,7 +32,7 @@ return(
             />
             <CardContent>
                 <Typography variant="body1" color="secondary">
-                    Experiencia Base:{props.exp}
+                    Base Experience:{props.exp}
                 </Typography>
                 <Typography variant="body2" color="primary">
                     HP:{props.stats[0].base_stat}
